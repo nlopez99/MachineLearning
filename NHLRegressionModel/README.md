@@ -11,6 +11,5 @@ The model includes:
 1. Label encoder for encoding labels
 
 <h2>Model Metric Graphs</h2>
-![Variable Correlation Heat Map](/graphs/variablecorrelation.png)
-Format: ![Alt Text](url)
+![alt text](https://github.com/nlopez99/MachineLearning/NHLRegressionModel/graphs/FinalVariableCorrelation.png)
 

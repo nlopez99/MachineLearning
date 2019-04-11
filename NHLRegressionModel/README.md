@@ -9,3 +9,8 @@ The model includes:
 1. Kfolding for cross-validation of the data
 1. Use of a standard scaler to scale and normalize data
 1. Label encoder for encoding labels
+
+<h2>Model Metric Graphs</h2>
+![Variable Correlation Heat Map](/graphs/variablecorrelation.png)
+Format: ![Alt Text](url)
+

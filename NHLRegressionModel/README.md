@@ -11,5 +11,5 @@ The model includes:
 1. Label encoder for encoding labels
 
 <h2>Model Metric Graphs</h2>
-![alt text](https://github.com/nlopez99/MachineLearning/blob/master/NHLRegressionModel/graphs/FinalVariableCorrelation.png)
+![stack Overflow](http://lmsotfy.com/so.png)
 

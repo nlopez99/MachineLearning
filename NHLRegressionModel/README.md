@@ -11,7 +11,13 @@ The model includes:
 1. Label encoder for encoding labels
 
 <h2>Model Metric Graphs</h2>
+
+<b>*Variable Correlation Heatmap*</b>
 <p>
-    <img src="graphs/FinalVariableCorrelation.png" width="600" height="300" />
+    <img src="graphs/FinalVariableCorrelation.png" width="800" height="400" />
 </p>
 
+<b>*Confusion Matrix Heatmap*</b>
+<p>
+    <img src="graphs/ConfusionMatrix.png" width="450" height="250" />
+</p>

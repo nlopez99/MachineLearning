@@ -1,7 +1,7 @@
 <h1>NHL Logistic Regression Model for Game Prediction</h1>
 
 The model I created uses only publicly available NHL statistics, available on *http://www.hockey-reference.com/*.
-The accuracy on the model ranges from 63-65% on the 2018-2019 season, and introduces no bias in the data since it is based on
+The accuracy on the model ranges from 65-66% on the 2018-2019 season, and introduces no bias in the data since it is based on
 historical statistical data from a previous season. 
 
 The model includes:

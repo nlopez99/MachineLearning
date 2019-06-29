@@ -7,7 +7,7 @@ historical statistical data from a previous season.
 The model includes:
 1. A Logistic Regression model for binary classification
 1. Kfolding for cross-validation of the data
-1. Use of a standard scaler to scale and normalize data
+1. Use of a standard scaler to normalize data
 1. Label encoder for encoding labels
 
 <h2>Model Metric Graphs</h2>
